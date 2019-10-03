@@ -13,7 +13,7 @@ I build this with the python libraries already installed on the pfSense (FreeBSD
 
 ## Setup
 
-Git clone project to /opt/godaddy-folder and after that the Normal python env setup procedures.
+Git clone project to /opt/godaddy-folder and after that just run normal python env setup procedures.
 
 ## Usage
 godaddy_record_update.py -f [settings].json
